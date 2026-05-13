@@ -4,7 +4,7 @@ const pokeneas = [
     nombre: "Paisanón",
     altura: 1.8,
     habilidad: "Tumbarse en la hamaca",
-    imagen: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    imagen: "https://storage.googleapis.com/pokeneas-imagenes232/paisanon.png",
     frase: "El que madruga, Dios lo ayuda, pero el que trasnocha se divierte más."
   },
   {
@@ -12,7 +12,7 @@ const pokeneas = [
     nombre: "Areperón",
     altura: 1.5,
     habilidad: "Hacer arepas a velocidad luz",
-    imagen: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    imagen: "https://storage.googleapis.com/pokeneas-imagenes232/areperon.png",
     frase: "Sin arepa no hay paraíso."
   },
   {
@@ -20,7 +20,7 @@ const pokeneas = [
     nombre: "Bandejón",
     altura: 1.7,
     habilidad: "Invocar bandeja paisa",
-    imagen: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+    imagen: "https://storage.googleapis.com/pokeneas-imagenes232/bandejon.png",
     frase: "La vida es corta, come duro."
   },
   {
@@ -28,7 +28,7 @@ const pokeneas = [
     nombre: "Chivamóvil",
     altura: 1.6,
     habilidad: "Transportar 50 personas en un jeep",
-    imagen: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    imagen: "https://storage.googleapis.com/pokeneas-imagenes232/chivamovil.png",
     frase: "Pa' lante es pa' allá."
   },
   {
@@ -36,7 +36,7 @@ const pokeneas = [
     nombre: "Silletero",
     altura: 1.75,
     habilidad: "Cargar silletas de flores eternas",
-    imagen: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    imagen: "https://storage.googleapis.com/pokeneas-imagenes232/silltero.png",
     frase: "Las flores no se rinden."
   },
   {
@@ -44,7 +44,7 @@ const pokeneas = [
     nombre: "Aguacatero",
     altura: 1.65,
     habilidad: "Lanzar aguacates con precisión",
-    imagen: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    imagen: "https://storage.googleapis.com/pokeneas-imagenes232/aguacatero.png",
     frase: "El aguacate maduro no espera."
   },
   {
@@ -52,7 +52,7 @@ const pokeneas = [
     nombre: "Tintero",
     altura: 1.55,
     habilidad: "Preparar tinto en condiciones extremas",
-    imagen: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    imagen: "https://storage.googleapis.com/pokeneas-imagenes232/tintero.png",
     frase: "Sin tinto, el alma no despierta."
   }
 ]
